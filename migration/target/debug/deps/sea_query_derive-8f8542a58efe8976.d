@@ -1,0 +1,9 @@
+C:\Users\tdele\git\RustyMakeurpicks\migration\target\debug\deps\sea_query_derive-8f8542a58efe8976.dll: C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\lib.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\error.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\iden_attr.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\iden_path.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\iden_variant.rs
+
+C:\Users\tdele\git\RustyMakeurpicks\migration\target\debug\deps\sea_query_derive-8f8542a58efe8976.d: C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\lib.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\error.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\iden_attr.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\iden_path.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\iden_variant.rs
+
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\lib.rs:
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\error.rs:
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\iden_attr.rs:
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\iden_path.rs:
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sea-query-derive-0.4.0\src\iden_variant.rs:

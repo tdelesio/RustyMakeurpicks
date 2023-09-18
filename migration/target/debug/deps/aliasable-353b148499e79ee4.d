@@ -1,0 +1,11 @@
+C:\Users\tdele\git\RustyMakeurpicks\migration\target\debug\deps\aliasable-353b148499e79ee4.rmeta: C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\lib.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\mut_ref.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\boxed.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\string.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\vec.rs
+
+C:\Users\tdele\git\RustyMakeurpicks\migration\target\debug\deps\libaliasable-353b148499e79ee4.rlib: C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\lib.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\mut_ref.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\boxed.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\string.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\vec.rs
+
+C:\Users\tdele\git\RustyMakeurpicks\migration\target\debug\deps\aliasable-353b148499e79ee4.d: C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\lib.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\mut_ref.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\boxed.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\string.rs C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\vec.rs
+
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\lib.rs:
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\mut_ref.rs:
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\boxed.rs:
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\string.rs:
+C:\Users\tdele\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aliasable-0.1.3\src\vec.rs:
